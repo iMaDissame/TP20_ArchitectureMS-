@@ -3,6 +3,7 @@ http://localhost:8888/SERVICE-CAR/api/car
 <img width="633" height="303" alt="image" src="https://github.com/user-attachments/assets/a2d06918-4ef0-4b0c-835a-e5da4eab22db" />
 http://localhost:8888/SERVICE-CLIENT/api/client
 <img width="196" height="166" alt="image" src="https://github.com/user-attachments/assets/7e817703-a93c-46c4-979d-793f0266492d" />
+
 http://localhost:8082/api/car/2
 <img width="222" height="132" alt="image" src="https://github.com/user-attachments/assets/82a1f295-6bcc-42e9-9f01-3387c86d283c" />
 http://localhost:8081/api/client/3
